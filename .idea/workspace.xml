@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb88fe73-42a7-40d1-82cd-7581aa645628" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Java development tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Java development tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1frYott5jjQZfzPVSe8vbnfDg7V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-08-starter" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wzt\idea_java\cloud2020\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb88fe73-42a7-40d1-82cd-7581aa645628" name="Default Changelist" comment="" />
+      <created>1596977857553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596977857553</updated>
+      <workItem from="1596977874108" duration="4616000" />
+      <workItem from="1596983220341" duration="316000" />
+      <workItem from="1597060991510" duration="2160000" />
+      <workItem from="1597067936889" duration="901000" />
+      <workItem from="1597068972245" duration="24000" />
+    </task>
+    <task id="LOCAL-00001" summary="springCloud 笔记">
+      <created>1597067182595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597067182595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="springCloud 笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="springCloud 笔记" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1511" y="178" key="#Notifications" timestamp="1597067269131">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1511" y="178" key="#Notifications/0.0.2560.1040@0.0.2560.1040" timestamp="1597067269131" />
+    <state x="1658" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596978451178">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1658" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1596978451178" />
+    <state x="1519" y="113" key="CommitChangelistDialog2" timestamp="1597067181822">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1519" y="113" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1597067181822" />
+    <state x="1699" y="261" key="FileChooserDialogImpl" timestamp="1597068231354">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1699" y="261" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1597068231354" />
+    <state width="1232" height="279" key="GridCell.Tab.0.bottom" timestamp="1597067849793">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1232" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1597067849793" />
+    <state width="1232" height="279" key="GridCell.Tab.0.center" timestamp="1597067849793">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1232" height="279" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1597067849793" />
+    <state width="1232" height="279" key="GridCell.Tab.0.left" timestamp="1597067849793">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1232" height="279" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1597067849793" />
+    <state width="1232" height="279" key="GridCell.Tab.0.right" timestamp="1597067849793">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1232" height="279" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1597067849793" />
+    <state x="1420" y="162" key="SettingsEditor" timestamp="1597067509808">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1420" y="162" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1597067509808" />
+    <state x="1511" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597069031727">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1511" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1597069031727" />
+    <state x="1617" y="311" key="git4idea.merge.GitPullDialog" timestamp="1597069022212">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1617" y="311" key="git4idea.merge.GitPullDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1597069022212" />
+  </component>
+  <component name="ZooKeeperConfig">
+    <option name="host" value="" />
+    <option name="port" value="2181" />
+    <option name="charset" value="UTF-8" />
+    <option name="whitePaths" value="" />
+  </component>
+</project>
