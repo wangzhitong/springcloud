@@ -1,0 +1,16 @@
+server:
+  port: 80
+spring:
+  application:
+    name: consul-consumer-order
+  cloud:
+    consul:
+      host: 192.168.52.134
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name}
+
+        # 心跳协议，不知道是不是版本问题，在docker中运行最新版本的consul，
+        # 需要手动打开心跳协议，否则服务注册到consul后，会出现Service ‘consul-provider-payment‘ check的错误
+        heartbeat: # 心跳协议
+          enabled: true
